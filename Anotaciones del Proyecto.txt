@@ -1,0 +1,49 @@
+Clasificación de los proyectos:
+
+Proyectos de Software: Describen proyectos en el que el objetivo es la creación de una platadorma o producto de software.
+
+1) Propuesta Ajustada_Barranquilla
+2) Propuesta Ajustada_Boyacá
+3) Propuesta Presentada_Chocó
+6) Propuesta Ajustada_Caldas
+7) Propuesta Ajustada_Huila
+8) Propuesta Ajustada_Rioacha
+9) Propuesta Presentada_Guaviare
+
+
+No Software: Describen proyectos en los que el objetivo no es crear una plataforma o producto de software, sino generar
+programas para capacitación en el uso de software o fomentar su desarrollo, mas no es la creación en sí del producto de 
+software
+
+4) Propuesta Vaupés
+5) Propuesta Ajustada_Bucaramanga
+
+
+
+
+
+
+
+
+Desarrollo por medio de metodología
+
+Paso 0: Subdivisión del problema 
+No se subdividió el problema
+
+Paso 1: Indentificar entidades 
+Ya
+
+Paso 2 y 3: Relaciones y caracteristicas
+En archivo adjunto
+
+Paso 4: Atributos
+Ya
+
+Paso 5: Modelo entidad relación - inicial
+Ya
+
+Paso 6: Transformar relaciones muchos a muchos
+
+Paso 7: Identificar nuevas relaciones con las entidades débiles y la matriz ampliada
+
+Paso 8: Modelo entidad relación final.
